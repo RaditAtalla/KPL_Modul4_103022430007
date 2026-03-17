@@ -1,0 +1,15 @@
+C:\Users\radit\source\repos\Modul4_103022430007\Modul4_103022430007\bin\Debug\net10.0\Modul4_103022430007.exe
+C:\Users\radit\source\repos\Modul4_103022430007\Modul4_103022430007\bin\Debug\net10.0\Modul4_103022430007.deps.json
+C:\Users\radit\source\repos\Modul4_103022430007\Modul4_103022430007\bin\Debug\net10.0\Modul4_103022430007.runtimeconfig.json
+C:\Users\radit\source\repos\Modul4_103022430007\Modul4_103022430007\bin\Debug\net10.0\Modul4_103022430007.dll
+C:\Users\radit\source\repos\Modul4_103022430007\Modul4_103022430007\bin\Debug\net10.0\Modul4_103022430007.pdb
+C:\Users\radit\source\repos\Modul4_103022430007\Modul4_103022430007\obj\Debug\net10.0\Modul4_103022430007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radit\source\repos\Modul4_103022430007\Modul4_103022430007\obj\Debug\net10.0\Modul4_103022430007.AssemblyInfoInputs.cache
+C:\Users\radit\source\repos\Modul4_103022430007\Modul4_103022430007\obj\Debug\net10.0\Modul4_103022430007.AssemblyInfo.cs
+C:\Users\radit\source\repos\Modul4_103022430007\Modul4_103022430007\obj\Debug\net10.0\Modul4_103022430007.csproj.CoreCompileInputs.cache
+C:\Users\radit\source\repos\Modul4_103022430007\Modul4_103022430007\obj\Debug\net10.0\Modul4_103022430007.sourcelink.json
+C:\Users\radit\source\repos\Modul4_103022430007\Modul4_103022430007\obj\Debug\net10.0\Modul4_103022430007.dll
+C:\Users\radit\source\repos\Modul4_103022430007\Modul4_103022430007\obj\Debug\net10.0\refint\Modul4_103022430007.dll
+C:\Users\radit\source\repos\Modul4_103022430007\Modul4_103022430007\obj\Debug\net10.0\Modul4_103022430007.pdb
+C:\Users\radit\source\repos\Modul4_103022430007\Modul4_103022430007\obj\Debug\net10.0\Modul4_103022430007.genruntimeconfig.cache
+C:\Users\radit\source\repos\Modul4_103022430007\Modul4_103022430007\obj\Debug\net10.0\ref\Modul4_103022430007.dll
